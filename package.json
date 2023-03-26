@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_task2",
+  "version": "1.0.0",
+  "description": "bookingapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "audilakshmi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "uniqid": "^5.4.0"
+  }
+}
